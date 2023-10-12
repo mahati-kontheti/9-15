@@ -1,1 +1,2 @@
 this is the first file after dummy file
+add second line
